@@ -35,6 +35,12 @@
 </p>
 
 
+<p><img align="right"
+ src="https://cdn.discordapp.com/attachments/917740159456391218/917743481496145920/coding_function_github.gif"
+  width="250"
+  height="250" />
+</p>
+
 <!-- Connect with me -->
 
 <h3 align="left">DM me here:</h3>
@@ -49,11 +55,7 @@
   /></a>
 </p>
 
-<p><img align="right"
- src="https://cdn.discordapp.com/attachments/917740159456391218/917743481496145920/coding_function_github.gif"
-  width="250"
-  height="250" />
-</p>
+
 
 <!-- languages so far -->
 
