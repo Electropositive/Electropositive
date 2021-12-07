@@ -321,13 +321,10 @@
 
 
 <!-- percentage languages used -->
-<br>
-<br>
-<br>
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&layout=compact&theme=tokyonight"
     alt="electropositive"
   />
 </p>
