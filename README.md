@@ -309,7 +309,9 @@
 </p>
 
 <p><img align="right"
- src="https://cdn.discordapp.com/attachments/917740159456391218/917740324795850792/code-coding.gif" />
+ src="https://cdn.discordapp.com/attachments/917740159456391218/917740324795850792/code-coding.gif"
+  width="40"
+  height="40" />
 </p>
 
 <!-- total comits, stars and others -->
