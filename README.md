@@ -321,7 +321,9 @@
 
 
 <!-- percentage languages used -->
-
+<br>
+<br>
+<br>
 <p>
   &nbsp;<img
     align="center"
