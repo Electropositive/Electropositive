@@ -28,15 +28,15 @@
   /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Message me @Hexane:</h3>
 <p align="left">
-  <a href="https://discord.gg/gbserg" target="blank"
+  <a href="https://discord.gg/79hRMUVSes" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="gbserg"
-      height="30"
-      width="40"
+      height="40"
+      width="50"
   /></a>
 </p>
 
