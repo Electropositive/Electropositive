@@ -323,7 +323,7 @@
 <!-- percentage languages used -->
 <p>
   &nbsp;<img
-    align="center"
+    align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&layout=compact&theme=tokyonight"
     alt="electropositive"
   />
