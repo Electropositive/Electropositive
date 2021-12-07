@@ -308,7 +308,7 @@
   </a>
 </p>
 
-<p><img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" />
+<p><img src="https://cdn.discordapp.com/attachments/917740159456391218/917740324795850792/code-coding.gif" />
 </p>
 
 <!-- total comits, stars and others -->
