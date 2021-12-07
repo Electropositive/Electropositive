@@ -308,6 +308,9 @@
   </a>
 </p>
 
+
+<!-- total comits, stars and others -->
+
 <p>
   <img
     align="left"
@@ -316,13 +319,19 @@
   />
 </p>
 
+
+<!-- percentage languages used -->
+
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=electropositive&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&layout=compact"
     alt="electropositive"
   />
 </p>
+
+
+<!--  -->
 
 <p>
   <img
