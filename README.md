@@ -5,12 +5,18 @@
     An underaged passionate Web & App developer.
 </h3>
 
+
+<!-- profile views -->
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=electropositive&label=Profile%20views&color=0e75b6&style=flat"
     alt="electropositive"
   />
 </p>
+
+
+<!-- tropies collection -->
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -28,7 +34,10 @@
   /></a>
 </p>
 
-<h3 align="left">Message me @Hexane:</h3>
+
+<!-- Connect with me -->
+
+<h3 align="left">DM me here:</h3>
 <p align="left">
   <a href="https://discord.gg/79hRMUVSes" target="blank"
     ><img
@@ -39,6 +48,9 @@
       width="50"
   /></a>
 </p>
+
+
+<!-- languages so far -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
