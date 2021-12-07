@@ -50,7 +50,7 @@
 </p>
 
 <p><img align="right"
- src="https://cdn.discordapp.com/attachments/917740159456391218/917740324795850792/code-coding.gif"
+ src="https://cdn.discordapp.com/attachments/917740159456391218/917742432496537630/ezgif.com-gif-maker.gif"
   width="200"
   height="200" />
 </p>
