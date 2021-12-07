@@ -51,8 +51,8 @@
 
 <p><img align="right"
  src="https://cdn.discordapp.com/attachments/917740159456391218/917740324795850792/code-coding.gif"
-  width="100"
-  height="100" />
+  width="200"
+  height="200" />
 </p>
 
 <!-- languages so far -->
