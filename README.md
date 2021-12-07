@@ -324,7 +324,7 @@
 <p>
   &nbsp;<img
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&hide=php&theme=tokyonight"
     alt="electropositive"
   />
 </p>
