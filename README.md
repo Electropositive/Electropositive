@@ -51,8 +51,8 @@
 
 <p><img align="right"
  src="https://cdn.discordapp.com/attachments/917740159456391218/917743481496145920/coding_function_github.gif"
-  width="200"
-  height="200" />
+  width="250"
+  height="250" />
 </p>
 
 <!-- languages so far -->
