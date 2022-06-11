@@ -45,7 +45,7 @@
 
 <h3 align="left">DM me here:</h3>
 <p align="left">
-  <a href="https://discord.gg/79hRMUVSes" target="blank"
+  <a href="https://www.youtube.com/watch?v=iik25wqIuFo" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
