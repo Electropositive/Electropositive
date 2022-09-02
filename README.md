@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi 👋, I'm Sanchit Pandey
+    Hi 👋, I'm Sanchit
 </h1>
 <h3 align="center">
     A college student
