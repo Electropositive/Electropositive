@@ -1,8 +1,8 @@
 <h1 align="center">
-    Hi 👋, I'm Hexane
+    Hi 👋, I'm Sanchit Pandey
 </h1>
 <h3 align="center">
-    An underaged passionate Web & App developer.
+    A college student
 </h3>
 
 
