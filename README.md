@@ -45,11 +45,11 @@
 
 <h3 align="left">DM me here:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=iik25wqIuFo" target="blank"
+  <a href="https://www.instagram.com/sanchit_pandey_11/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="gbserg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Sanchit_Pandey_11"
       height="40"
       width="50"
   /></a>
