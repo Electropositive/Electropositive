@@ -66,13 +66,15 @@
 
 <!-- total comits, stars and others -->
 
-<p>
+![](https://github-readme-stats.vercel.app/api?username=Electropositive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=electropositive&show_icons=true&theme=radical"
     alt="electropositive"
   />
-</p>
+</p> -->
 
 
 <!-- percentage languages used -->
@@ -84,3 +86,8 @@
   />
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
