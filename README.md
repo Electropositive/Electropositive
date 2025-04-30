@@ -2,7 +2,7 @@
     Hi 👋, I'm Sanchit
 </h1>
 <h3 align="center">
-    A college student
+<!--     A college student -->
 </h3>
 
 
@@ -45,7 +45,7 @@
 
 <h3 align="left">DM me here:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/sanchit_pandey_11/" target="blank"
+<!--   <a href="https://www.instagram.com/sanchit_pandey_11/" target="blank" -->
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
