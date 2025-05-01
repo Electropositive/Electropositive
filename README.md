@@ -10,8 +10,8 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=electropositive&label=Profile%20views&color=0e75b6&style=flat"
-    alt="electropositive"
+    src="https://komarev.com/ghpvc/?username=SevenLinesOfCode&label=Profile%20views&color=0e75b6&style=flat"
+    alt="SevenLinesOfCode"
   />
 </p>
 
@@ -21,8 +21,8 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=electropositive&theme=onedark"
-      alt="electropositive"
+      src="https://github-profile-trophy.vercel.app/?username=SevenLinesOfCode&theme=onedark"
+      alt="SevenLinesOfCode"
   /></a>
 </p>
 
@@ -53,15 +53,15 @@
 
 <!-- total comits, stars and others -->
 
-![](https://github-readme-stats.vercel.app/api?username=Electropositive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Electropositive&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Electropositive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SevenLinesOfCode&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SevenLinesOfCode&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenLinesOfCode&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=electropositive&show_icons=true&theme=radical"
-    alt="electropositive"
+    src="https://github-readme-stats.vercel.app/api?username=SevenLinesOfCode&show_icons=true&theme=radical"
+    alt="SevenLinesOfCode"
   />
 </p> -->
 
@@ -70,8 +70,8 @@
 <!-- <p>
   &nbsp;<img
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=electropositive&hide=php&theme=tokyonight"
-    alt="electropositive"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenLinesOfCode&hide=php&theme=tokyonight"
+    alt="SevenLinesOfCode"
   />
 </p> -->
 
